@@ -1,1 +1,1 @@
-https://kamquoss.github.io/goit-markup-hw-04/cd 
+https://kamquoss.github.io/goit-markup-hw-04/
