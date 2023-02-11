@@ -348,6 +348,11 @@ ul.contact-container {
   background-color: var(--color-grey-900);
 }
 
+.footer > .container {
+  display: flex;
+  column-gap: 70px;
+}
+
 .footer .logo {
   margin-bottom: 20px;
 }
@@ -361,4 +366,21 @@ ul.contact-container {
 
 .address a {
   color: var(--color-white-opacity);
+}
+
+.footer .heading-3 {
+  margin-bottom: 20px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.15;
+  text-transform: uppercase;
+  color: var(--color-white);
+}
+
+.footer .social-link {
+  fill: var(--color-white);
+  background-color: rgba(255, 255, 255, 0.1);;
+}
+.footer .social-link:hover {
+  background-color: var(--color-primary);
 }
